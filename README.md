@@ -8,6 +8,11 @@
 
 AI Research Assistant is a powerful tool that leverages artificial intelligence to conduct thorough research, perform fact-checking, and generate professional reports. It streamlines the research process by automating information gathering, validation, and report generation, making it an invaluable tool for researchers, students, and professionals.
 
+## 🖥️ Live Demo
+
+Try the app live: [AI Research Assistant on Streamlit](https://ai-research-assistant-raviraj-441.streamlit.app/)
+
+---
 
 ## ✨ Key Features
 
