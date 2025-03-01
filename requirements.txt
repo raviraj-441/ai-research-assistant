@@ -1,6 +1,6 @@
-streamlit==1.31.1
-langchain-groq==0.0.3
-langgraph==0.0.11
-tavily-python==0.3.1
-python-dotenv==1.0.1
-fpdf==1.7.2
+streamlit
+langchain-groq
+langgraph
+tavily-python
+python-dotenv
+fpdf
