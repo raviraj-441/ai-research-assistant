@@ -8,7 +8,6 @@
 
 AI Research Assistant is a powerful tool that leverages artificial intelligence to conduct thorough research, perform fact-checking, and generate professional reports. It streamlines the research process by automating information gathering, validation, and report generation, making it an invaluable tool for researchers, students, and professionals.
 
-![Research Assistant Demo](https://via.placeholder.com/800x400?text=Research+Assistant+Demo)
 
 ## ✨ Key Features
 
